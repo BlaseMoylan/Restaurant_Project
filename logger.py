@@ -1,4 +1,4 @@
-#
+
 class Logger:
     def __init__(self) -> None:
         self.count=0

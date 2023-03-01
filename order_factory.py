@@ -5,8 +5,6 @@ from salad import Salad
 # with a static create_order method.
 
 class Order_Factory:
-    def __init__(self) -> None:
-        pass
     @staticmethod
     def create_order(order):
         #create instance of an order
