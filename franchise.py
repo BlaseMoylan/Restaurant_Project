@@ -11,6 +11,5 @@ class Franchise:
     def __init__(self,location_number:int) -> None:
         self.location_number=location_number
     def place_order(self):
-        user_order=Order_Validation.real_order()
-        order=Order_Factory.create_order(user_order)
+        order=Order_Factory.create_order()
         logger.log_transaction(order,self.location_number)
