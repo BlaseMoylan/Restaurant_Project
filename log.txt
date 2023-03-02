@@ -1,8 +1,8 @@
-TRX#1: Salad at location 1: $50. Total: $50
-TRX#2: Pasta at location 2: $75. Total: $125
-TRX#3: Salad at location 1: $50. Total: $175
-TRX#4: Salad at location 2: $50. Total: $225
-TRX#5: Salad at location 3: $50. Total: $275
-TRX#6: Salad at location 3: $50. Total: $325
-TRX#7: Salad at location 1: $50. Total: $375
-TRX#8: Salad at location 1: $50. Total: $425
+TRX#1: Pasta at location 1: $75. Total: $75
+TRX#2: Salad at location 2: $50. Total: $125
+TRX#3: Pasta at location 1: $75. Total: $200
+TRX#4: Salad at location 2: $50. Total: $250
+TRX#5: Salad at location 3: $50. Total: $300
+TRX#6: Salad at location 3: $50. Total: $350
+TRX#7: Salad at location 1: $50. Total: $400
+TRX#8: Salad at location 1: $50. Total: $450
